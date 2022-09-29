@@ -1,2 +1,6 @@
 # crappy-dataStructures-visualization
-Just a crappy graph visualization
+Just a crappy dataStructures visualization
+
+So far implemented:
+  graph
+  tree
